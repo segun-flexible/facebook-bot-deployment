@@ -1,0 +1,28 @@
+[2021-12-15T16:35:51.030] [DEBUG] default - ReferenceError: home is not defined
+    at Object.<anonymous> (C:\Users\USER\Desktop\Flexible\Project\PROJECT_MID_YEAR\nodejs_facebook_bot\app.js:48:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[2021-12-15T16:36:15.933] [DEBUG] default - ReferenceError: notFound is not defined
+    at Object.<anonymous> (C:\Users\USER\Desktop\Flexible\Project\PROJECT_MID_YEAR\nodejs_facebook_bot\app.js:53:14)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[2021-12-15T16:36:19.516] [DEBUG] default - ReferenceError: errorMiddleWare is not defined
+    at Object.<anonymous> (C:\Users\USER\Desktop\Flexible\Project\PROJECT_MID_YEAR\nodejs_facebook_bot\app.js:53:9)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+[2021-12-15T16:37:49.679] [DEBUG] default - {
+  status: 500,
+  message: 'Failed to lookup view "home" in views directory "C:\\Users\\USER\\Desktop\\Flexible\\Project\\PROJECT_MID_YEAR\\nodejs_facebook_bot\\views"'
+}
